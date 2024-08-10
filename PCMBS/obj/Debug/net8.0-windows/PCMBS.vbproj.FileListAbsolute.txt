@@ -1,0 +1,17 @@
+C:\Users\KJ\source\repos\PCMBS\PCMBS\bin\Debug\net8.0-windows\PCMBS.exe
+C:\Users\KJ\source\repos\PCMBS\PCMBS\bin\Debug\net8.0-windows\PCMBS.deps.json
+C:\Users\KJ\source\repos\PCMBS\PCMBS\bin\Debug\net8.0-windows\PCMBS.runtimeconfig.json
+C:\Users\KJ\source\repos\PCMBS\PCMBS\bin\Debug\net8.0-windows\PCMBS.dll
+C:\Users\KJ\source\repos\PCMBS\PCMBS\bin\Debug\net8.0-windows\PCMBS.pdb
+C:\Users\KJ\source\repos\PCMBS\PCMBS\obj\Debug\net8.0-windows\PCMBS.FMain.resources
+C:\Users\KJ\source\repos\PCMBS\PCMBS\obj\Debug\net8.0-windows\PCMBS.Resources.resources
+C:\Users\KJ\source\repos\PCMBS\PCMBS\obj\Debug\net8.0-windows\PCMBS.vbproj.GenerateResource.cache
+C:\Users\KJ\source\repos\PCMBS\PCMBS\obj\Debug\net8.0-windows\PCMBS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KJ\source\repos\PCMBS\PCMBS\obj\Debug\net8.0-windows\PCMBS.AssemblyInfoInputs.cache
+C:\Users\KJ\source\repos\PCMBS\PCMBS\obj\Debug\net8.0-windows\PCMBS.AssemblyInfo.vb
+C:\Users\KJ\source\repos\PCMBS\PCMBS\obj\Debug\net8.0-windows\PCMBS.vbproj.CoreCompileInputs.cache
+C:\Users\KJ\source\repos\PCMBS\PCMBS\obj\Debug\net8.0-windows\PCMBS.dll
+C:\Users\KJ\source\repos\PCMBS\PCMBS\obj\Debug\net8.0-windows\refint\PCMBS.dll
+C:\Users\KJ\source\repos\PCMBS\PCMBS\obj\Debug\net8.0-windows\PCMBS.pdb
+C:\Users\KJ\source\repos\PCMBS\PCMBS\obj\Debug\net8.0-windows\PCMBS.genruntimeconfig.cache
+C:\Users\KJ\source\repos\PCMBS\PCMBS\obj\Debug\net8.0-windows\ref\PCMBS.dll
